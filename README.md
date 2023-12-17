@@ -1,5 +1,5 @@
 # ENCRYPTED-S-AES-DIGITAL-SIGNATURE
-![Portion-Watermarking](https://socialify.git.ci/suva007/ENCRYPTED-S-AES-DIGITAL-SIGNATURE-/image?description=1&descriptionEditable=Client%20server%20communication%20is%20secured%20using%20S-AES%20algorithm%20and%20digitally%20signed%20before%20transmitting.&font=KoHo&language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
+![Portion-Watermarking](https://socialify.git.ci/AbhinandanPun/Secure-Client-Server-Model/image?font=Raleway&language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
 
 - <a href="https://github.com/suva007/ENCRYPTED-S-AES-DIGITAL-SIGNATURE-/blob/main/client.c" title="Link to notebook" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📚 Client.c </a>
 - <a href="https://github.com/suva007/ENCRYPTED-S-AES-DIGITAL-SIGNATURE-/blob/main/server.c" title="Link to notebook" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📚 Server.c </a>
