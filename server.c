@@ -1,9 +1,3 @@
-//
-//  main.c
-//  server_new
-//
-//  Created by SUVANSH  ARORA on 12/04/21.
-//
 
 #include <stdio.h>
 #include<stdlib.h>
